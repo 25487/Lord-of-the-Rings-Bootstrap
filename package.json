@@ -1,0 +1,21 @@
+{
+  "name": "lotr-master",
+  "version": "1.0.0",
+  "description": "een training met bootstrap op een pagina van lord of the rings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bootstrap",
+    "demo",
+    "LotR"
+  ],
+  "author": "Taurese Usman",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jquery-match-height": "^0.7.2"
+  }
+}
